@@ -1,3 +1,5 @@
+## NAME: PRIYAN
+## REG NO: 212224230211
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
